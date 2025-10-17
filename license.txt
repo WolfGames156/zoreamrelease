@@ -1,0 +1,31 @@
+WARNING & LIMITED USE NOTICE
+
+IMPORTANT — READ CAREFULLY. By downloading, copying, installing, accessing, or otherwise using this software (the “Software”), you acknowledge and agree to the terms below.
+
+1. No Authorization for Unlawful Use
+
+The author(s)/distributor(s) of this Software do not authorize, endorse, or permit use of the Software for any activity that is illegal under applicable local, national, or international law. This notice does not and cannot confer legal permission to commit unlawful acts. If your intended use would constitute a crime or other unlawful action, you must not use this Software.
+
+2. Assumption of Risk and Liability
+
+You understand and agree that your use of the Software is solely at your own risk. You assume all responsibility for any and all consequences, losses, damages, claims, liabilities, fines, penalties, or expenses (including reasonable attorneys’ fees) arising from or related to your possession, use, misuse, distribution, or transmission of the Software.
+
+3. No Warranty; Disclaimer of Liability
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHOR(S), DISTRIBUTOR(S), OR ANY OTHER PARTY INVOLVED IN CREATING OR DELIVERING THE SOFTWARE BE LIABLE FOR ANY INCIDENTAL, SPECIAL, INDIRECT, CONSEQUENTIAL, OR PUNITIVE DAMAGES WHATSOEVER, OR FOR ANY LOST PROFITS, LOSS OF DATA, OR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, ARISING OUT OF OR RELATED TO THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+4. Indemnification
+
+You agree to indemnify, defend, and hold harmless the author(s), distributor(s), and their respective officers, agents, and employees from and against any and all claims, demands, liabilities, losses, damages, costs and expenses (including reasonable attorneys’ fees) arising out of or in connection with your use of the Software, your violation of this Notice, or your violation of any rights of any third party or any applicable law.
+
+5. Prohibited Actions & Termination
+
+If you use the Software in a manner that is unlawful, harmful, or in violation of applicable terms, any permission to use or possess the Software terminates immediately. The author(s)/distributor(s) reserve all rights to pursue any civil or criminal remedies available under applicable law.
+
+6. Governing Law & Severability
+
+This Notice shall be governed by and construed in accordance with the laws of the jurisdiction chosen by the author(s)/distributor(s). If any provision of this Notice is found invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+7. Acceptance
+
+By downloading, installing, accessing, or using the Software, you acknowledge that you have read, understood, and agree to be bound by this Notice.
