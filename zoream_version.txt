@@ -1,2 +1,2 @@
-10.4.7
+10.4.8
 https://github.com/WolfGames156/zoreamrelease/releases/download/release/Zoream_Setup.exe
